@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sweetshop/static/css/main.ac0813b3.chunk.css",
+    "main.js": "/sweetshop/static/js/main.1c9dfae1.chunk.js",
+    "main.js.map": "/sweetshop/static/js/main.1c9dfae1.chunk.js.map",
+    "runtime-main.js": "/sweetshop/static/js/runtime-main.881552ec.js",
+    "runtime-main.js.map": "/sweetshop/static/js/runtime-main.881552ec.js.map",
+    "static/js/2.68ce5f26.chunk.js": "/sweetshop/static/js/2.68ce5f26.chunk.js",
+    "static/js/2.68ce5f26.chunk.js.map": "/sweetshop/static/js/2.68ce5f26.chunk.js.map",
+    "index.html": "/sweetshop/index.html",
+    "static/css/main.ac0813b3.chunk.css.map": "/sweetshop/static/css/main.ac0813b3.chunk.css.map",
+    "static/js/2.68ce5f26.chunk.js.LICENSE.txt": "/sweetshop/static/js/2.68ce5f26.chunk.js.LICENSE.txt",
+    "static/media/Drawing.55a487b7.svg": "/sweetshop/static/media/Drawing.55a487b7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.881552ec.js",
+    "static/js/2.68ce5f26.chunk.js",
+    "static/css/main.ac0813b3.chunk.css",
+    "static/js/main.1c9dfae1.chunk.js"
+  ]
+}
